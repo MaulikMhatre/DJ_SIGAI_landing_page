@@ -15,12 +15,12 @@ const geistMono = Geist_Mono({
 
 const orbitron = Orbitron({
   variable: "--font-orbitron",
-  subset: ['latin']
+  subsets: ['latin']
 })
 
 const rajdhani = Rajdhani({
   variable: "--font-rajdhani",
-  subset: ['latin'],
+  subsets: ['latin'],
   weight: "400"
 })
 
